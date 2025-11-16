@@ -47,7 +47,7 @@ This repository showcases my journey through **Kaggle competitions**, featuring 
 ### 🚢 [Titanic Survival Prediction](./Titanic-Survival-Prediction)
 
 <a href="./Titanic-Survival-Prediction">
-  <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/3136/logos/header.png" alt="Titanic Competition" width="100%"/>
+  <img src="./assets/titanic-banner.png" alt="Titanic Competition" width="100%"/>
 </a>
 
 **Competition:** [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
