@@ -222,7 +222,7 @@ graph LR
 <br/>Well-documented & reproducible
 </td>
 <td align="center">
-<img src="https://img.icons8.com/color/96/000000/data-science.png" width="64"/>
+<img src="https://img.icons8.com/fluency/96/000000/process.png" width="64"/>
 <br/><strong>Best Practices</strong>
 <br/>Industry-standard techniques
 </td>
